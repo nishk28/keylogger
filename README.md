@@ -93,7 +93,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## Contact
 
-For any questions, you can reach me at **[your-email@example.com](mailto:your-email@example.com)** or check out my YouTube channel **[Hack Earth](https://youtube.com/hackearth)** for more tutorials on ethical hacking, programming, and cybersecurity.
+For any questions, you can check out my YouTube channel **[Hack Earth](https://youtube.com/@hackearth)** for more tutorials on ethical hacking, programming, and cybersecurity.
 ```
 
 ---
