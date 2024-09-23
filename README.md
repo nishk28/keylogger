@@ -36,8 +36,8 @@ pip install pynput
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/python-keylogger.git
-   cd python-keylogger
+   git clone https://github.com/nishk28/keylogger.git
+   cd keylogger
    ```
 
 2. **Install the required library**:
